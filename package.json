@@ -23,6 +23,8 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "coffee-script": "^1.9.1"
+    "coffee-script": "^1.9.1",
+    "hotcoffee-config": "0.0.1",
+    "hotcoffee-mongodb": "0.0.1"
   }
 }
