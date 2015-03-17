@@ -1,0 +1,16 @@
+{
+  "name": "hotcoffee-demo",
+  "version": "0.0.1",
+  "description": "Hotcoffee demo server with MongoDB plugin",
+  "main": "index.coffee",
+  "scripts": {
+  },
+  "keywords": [
+    "hotcoffee",
+    "demo",
+    "server",
+    "mongodb"
+  ],
+  "author": "kr1sp1n",
+  "license": "MIT"
+}
