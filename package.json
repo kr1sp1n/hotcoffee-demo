@@ -18,5 +18,8 @@
   "license": "MIT",
   "devDependencies": {
     "node-dev": "^2.6.1"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
