@@ -25,6 +25,7 @@
   "dependencies": {
     "coffee-script": "^1.9.1",
     "hotcoffee-config": "0.0.1",
-    "hotcoffee-mongodb": "0.0.1"
+    "hotcoffee-mongodb": "0.0.1",
+    "hotcoffee": "0.0.1"
   }
 }
