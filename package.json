@@ -3,14 +3,20 @@
   "version": "0.0.1",
   "description": "Hotcoffee demo server with MongoDB plugin",
   "main": "index.coffee",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "hotcoffee",
     "demo",
     "server",
     "mongodb"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kr1sp1n/hotcoffee-demo.git"
+  },
   "author": "kr1sp1n",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "node-dev": "^2.6.1"
+  }
 }
