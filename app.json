@@ -1,4 +1,4 @@
 {
   "name": "hotcoffee-demo",
-  "addons": ["mongohq"]
+  "addons": ["mongolab:sandbox"]
 }
